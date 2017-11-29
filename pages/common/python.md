@@ -17,3 +17,7 @@
 - Run library module as a script (terminates option list):
 
 `python -m {{module}} {{arguments}}`
+
+ - Run a static file server in the local directory (Python 3 only):
+ 
+ `python -m http.server`
